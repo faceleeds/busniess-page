@@ -29,7 +29,7 @@ body {
 }
 
 .wrap:before {
-  background: url(/images/pin_big.png) no-repeat;
+  background: url(/busniess-page/images/pin_big.png) no-repeat;
   background-size: cover;
   width: 117px;
   height: 175px;
@@ -40,7 +40,7 @@ body {
 }
 
 .wrap:after {
-  background: url(/images/pin_small.png) no-repeat;
+  background: url(/busniess-page/images/pin_small.png) no-repeat;
   background-size: cover;
   width: 92px;
   height: 137px;
